@@ -1,10 +1,10 @@
- = ["Green", "Yellow", "Blue"]
+array = ["Green", "Yellow", "Blue"]
 
-def my_color(array)
+def my_colect(array)
   i=0 
   while i < array.length 
     yield(array[i])
     i += 1 
   end 
-  color
+  array
 end
