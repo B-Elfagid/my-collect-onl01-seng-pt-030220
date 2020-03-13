@@ -1,4 +1,4 @@
-arr ["Tim Jones", "Tom Smith", "Jim Campagno"]
+arr color ["Green", "Yellow", "Blue"]
 
 def my_each(array)
   i=0 
