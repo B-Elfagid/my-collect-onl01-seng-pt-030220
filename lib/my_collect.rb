@@ -1,4 +1,4 @@
-color = ["Green", "Yellow", "Blue"]
+ = ["Green", "Yellow", "Blue"]
 
 def my_color(array)
   i=0 
