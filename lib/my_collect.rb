@@ -1,10 +1,10 @@
-arr color ["Green", "Yellow", "Blue"]
+color = ["Green", "Yellow", "Blue"]
 
-def my_each(array)
+def my_color(array)
   i=0 
   while i < array.length 
     yield(array[i])
     i += 1 
   end 
-  array 
+  color
 end
