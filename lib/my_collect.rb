@@ -1,4 +1,4 @@
-array = ["Green", "Yellow", "Blue"]
+array = ["student first name", "student second name"]
 
 def my_colect(array)
   i=0 
